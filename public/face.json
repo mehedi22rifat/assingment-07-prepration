@@ -1,0 +1,76 @@
+ [
+      {
+        "id": 1,
+        "name": "Mehedi hasan Rifat",
+        "title": "Programming books",
+        "img": "https://i.ibb.co/dJJf7pF/woman-3083453-1280.jpg",
+        "discounted_price": 19.99,
+        "original_price": 29.99,
+        "rating": 4.5,
+        "reviews": 120,
+        "inStock": true,
+        "description":"amar aii boi valo lage tai kinchi"
+      },
+      {
+        "id": 2,
+        "name": "shabbir",
+        "title": "bangla book store",
+        "img": "https://i.ibb.co/L01rC79/woman-6401957-1280.jpg",
+        "discounted_price": 24.99,
+        "original_price": 34.99,
+        "rating": 4.2,
+        "reviews": 85,
+        "inStock": false,
+        "description": "Description of Product B"
+      },
+      {
+        "id": 3,
+        "name": "Jahankar mahbubu ",
+        "title": "Programming ar choddogusti",
+        "img": "https://i.ibb.co/nnjkctD/man-2425121-1280.jpg",
+        "discounted_price": 39.99,
+        "original_price": 49.99,
+        "rating": 4.8,
+        "reviews": 200,
+        "inStock": true,
+        "description": "Description of Product C"
+      },
+      {
+        "id": 4,
+        "name": "Kobir Rana",
+        "title": "Love story ",
+        "img": "https://i.ibb.co/4KVk39L/coffee-792113-1280.jpg",
+        "discounted_price": 14.99,
+        "original_price": 19.99,
+        "rating": 4.1,
+        "reviews": 60,
+        "inStock": true,
+        "description": "Description of Product D"
+      },
+      {
+        "id": 5,
+        "name": "Salauddin",
+        "title": "Amitomake valobahi",
+        "img": "https://i.ibb.co/qyFDWk1/ekg-2069872-1280.png",
+        "discounted_prhttps": 49.99,
+        "original_price": 59.99,
+        "rating": 4.9,
+        "reviews": 300,
+        "inStock": true,
+        "description": "Description of Product E"
+      },
+      {
+        "id": 6,
+        "name": "Konika Mojumdar",
+        "title": "Mittha valobaha",
+        "img": "https://i.ibb.co/C1822Ys/electrocardiogram-36732-1280.png",
+        "discounted_price": 29.99,
+        "original_price": 39.99,
+        "rating": 4.6,
+        "reviews": 150,
+        "inStock": false,
+        "description": "Description of Product F"
+      }
+]
+
+  
